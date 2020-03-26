@@ -18,6 +18,10 @@ class String
     end
   end
   
+  def exclamation?
+    
+  end
+  
   
   
 end
