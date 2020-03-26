@@ -10,6 +10,10 @@ class String
     end
   end 
   
+  def question?
+    
+  end
+  
   
   
 end
